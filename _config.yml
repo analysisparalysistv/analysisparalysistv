@@ -11,8 +11,8 @@ baseurl: /
 title: Analysis Paralysis
 description: We watched ... we analysed ... we shared ...
 cover: assets/images/website_cover.png
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
+logo: assets/images/blog_icon.png
+logo_dark: assets/images/blog_icon_dark.png
 favicon: assets/images/favicon.ico
 production_url: https://analysisparalysistv.github.io/
 source_url: https://github.com/analysisparalysistv/analysisparalysistv.github.io
